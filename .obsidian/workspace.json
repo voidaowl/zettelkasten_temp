@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/main_note_temp.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "main_note_temp"
+              "title": "README.md"
             }
           }
         ]
@@ -169,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/main_note_temp.md"
+                "file": "README.md.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for main_note_temp"
+              "title": "File properties for README.md"
             }
           }
         ],
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,13 +196,13 @@
   },
   "active": "99628302e7ed6b19",
   "lastOpenFiles": [
-    "templates/video_recording_temp.md",
+    "templates/sample.md",
+    "README.md.md",
     "templates/main_note_temp.md",
+    "templates/video_recording_temp.md",
     "templates/book_template.md",
     "templates/web_page_template.md",
     "templates/journal_article_template.md",
-    "templates/sample.md",
-    "README.md.md",
     "attachments/sample.md",
     "canvases/sample.canvas",
     "inbox/sample.md",
