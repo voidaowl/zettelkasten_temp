@@ -22,6 +22,13 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "index": "multitext",
+    "Authors": "multitext",
+    "extra": "multitext",
+    "created": "datetime",
+    "completed": "datetime",
+    "date": "date",
+    "accessed": "date"
   }
 }

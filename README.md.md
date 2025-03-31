@@ -15,6 +15,6 @@ Other files:
 
 In order to streamline the writing process and worry about one less thing, create and name notes with the [Unique note creator](https://help.obsidian.md/plugins/unique-note) core plugin, using the default date/time pattern `YYYYMMDDHHmm`. To provide files with a human-readable name, use file [properties](https://help.obsidian.md/properties) and create maps of content (or tables of content) with [Dataview queries](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/). To see individual file properties, hit the `<Ctrl> + P` shortcut to open the command palette and type `Properties view: Show file properties`. After creating a note, use a template from the `templates` directory. All types of notes are covered.
 
-I use [Zotero](https://www.zotero.org/) as a reference manager. Make sure you have the [Better BibTeX plugin](https://retorque.re/zotero-better-bibtex/) installed, then learn how to easily integrate Zotero in the workflow by watching [this video](https://www.youtube.com/watch?v=8yMko1m8XSQ).
+I use [Zotero](https://www.zotero.org/) as a reference manager. Make sure you have the [Better BibTeX plugin](https://retorque.re/zotero-better-bibtex/) and the [Zotero connector](https://www.zotero.org/download/connectors) web browser plugin installed, then learn how to easily integrate Zotero in the workflow by watching [this video](https://www.youtube.com/watch?v=8yMko1m8XSQ).
 
 Enjoy the work!

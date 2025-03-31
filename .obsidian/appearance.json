@@ -1,6 +1,6 @@
 {
   "textFontFamily": "iA Writer Mono S",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "iA Writer Mono S",
   "interfaceFontFamily": "iA Writer Mono S",
   "enabledCssSnippets": [
     "headers"
